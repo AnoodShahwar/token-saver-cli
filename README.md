@@ -54,7 +54,7 @@ This project demonstrates:
 
 - Input / Output  
 - Variables  
-- Operators (Arithmetic + Logical)  
+- Operators (Arithmetic)  
 - Lists / Tuples  
 - Dictionaries  
 - Conditional Statements (`if-else`)  
