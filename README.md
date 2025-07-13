@@ -81,7 +81,7 @@ exit    → Exit the program
 ```
 ---
 
-🌸 Final Note
+### 🌸 Final Note
 
 This wasn’t just a lab exercise, it was my way of making Python feel real, useful, and a little bit fun.
 I hope this tiny tool helps you learn the basics like it helped me build confidence 💻🌼
